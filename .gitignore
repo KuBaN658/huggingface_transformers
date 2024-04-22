@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+data/
+drug-reviews-test.jsonl
+drug-reviews-train.jsonl
+drug-reviews-validation.jsonl
+drug-reviews/
